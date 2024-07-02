@@ -71,3 +71,5 @@ Crypto-API-Automation/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+url="https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest"
